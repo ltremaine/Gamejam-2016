@@ -1,0 +1,32 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Lewis Tremaine\Desktop\Gamejam 2\mainhelp_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Lewis Tremaine\Desktop\Gamejam 2\mainhelp_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Lewis Tremaine\Desktop\Gamejam 2\mainhelp_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Lewis Tremaine\Desktop\Gamejam 2\mainhelp_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Lewis Tremaine\Desktop\Gamejam 2\mainhelp_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Lewis Tremaine\Desktop\Gamejam 2\mainhelp_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 2560x1080 60Hz; virtual: 2560x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Lewis Tremaine\Desktop\Gamejam 2\mainhelp_Data\Managed\System.Core.dll (this message is harmless)
+Level 'battle' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+UnityEngine.Application:LoadLevelAsync(String, Int32, Boolean, Boolean)
+UnityEngine.Application:LoadLevel(String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineApplication.cs:59)
+startGame:OnMouseDown() (at C:\Users\Lewis Tremaine\Desktop\Gamejam 2\Main menu\Assets\Scripts\startGame.cs:7)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\MouseEvents.cs:17)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\MouseEvents.cs:146)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/Misc/Player.cpp line 275] 
+(Filename: C Line: 0)
+

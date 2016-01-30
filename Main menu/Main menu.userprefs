@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\game scripts\HPcontroller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\game scripts\tileSpawner1.cs" Line="45" Column="4" />
+      <File FileName="Assets\Scripts\game scripts\HPcontroller.cs" Line="182" Column="1" />
+      <File FileName="Assets\Scripts\game scripts\stateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Buttons\startGame.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\Lewis Tremaine\Desktop\Gamejam 2\Main menu\Assets\Scripts\Buttons\Earth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Buttons\Water.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Buttons\Fire.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Buttons\Heal.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
